@@ -15,6 +15,6 @@ El repositorio cuenta con los siguientes archivos:
 - **Practica_UOC.ipynb**: Contiene la implementación que permite obtener el dataset con la información obtenida de la página de Amazon.
 - **Documento_Memoria**: Documento PDF que contiene la información del proyecto. 
 - **Documento Excel**: Contiene el dataset con la información de los ordenadores portátiles y otro dataset con la información de los ordenadores de escritorio. 
-- **Imágenes: Archivo** en donde se almacenan las imágenes en formato .JPG de cada una de las publicaciones de los ordenadores. 
+- **Imágenes**: Archivo en donde se almacenan las imágenes en formato .JPG de cada una de las publicaciones de los ordenadores. 
 
 ## Enlace al dataset: 
