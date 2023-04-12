@@ -12,7 +12,7 @@ Esta práctica forma parte de la matería de Tipología y ciclo de vida de los d
 
 El repositorio cuenta con los siguientes archivos: 
 
-- **Practica_UOC.ipynb**: Contiene la implementación que permite obtener el dataset con la información obtenida de la página de Amazon.
+- **Practica_UOC_FIN.ipynb**: Contiene la implementación que permite obtener el dataset con la información obtenida de la página de Amazon.
 - **Documento_Memoria**: Documento PDF que contiene la información del proyecto. 
 - **Documento Excel**: Contiene el dataset con la información de los ordenadores portátiles y otro dataset con la información de los ordenadores de escritorio. 
 - **Imágenes**: Archivo en donde se almacenan las imágenes en formato JPG de cada una de las publicaciones de los ordenadores. 
