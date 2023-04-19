@@ -18,4 +18,4 @@ El repositorio cuenta con las siguientes carpetas:
 - **imagenes.zip**: Carpeta comprimida donde se almacenan las imágenes en formato JPG de cada una de las publicaciones de los ordenadores portatiles y de escritorio.
 
 ## Enlace al dataset: 
-https://doi.org/10.5281/zenodo.7823916 
+En  Zenodo se accede al dataset a partir del siguiente enlace: https://doi.org/10.5281/zenodo.7823916 
